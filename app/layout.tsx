@@ -22,7 +22,7 @@ const title = "기웅민 | AI Engineer";
 const description = "마케터 → PM → 풀스택 → AI. 제품을 만들 줄 아는 AI 엔지니어.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://woongmin.dev"),
+  metadataBase: new URL("https://portfolio.woong-s.com"),
   title,
   description,
   openGraph: {
