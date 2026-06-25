@@ -3,7 +3,7 @@ import { Section } from "@/components/ui-bits/section";
 
 export function Contact() {
   return (
-    <Section id="contact" number="05" title="Contact">
+    <Section id="contact" number="06" title="Contact">
       <p className="mb-8 max-w-xl text-base text-[var(--color-muted)]">
         새로운 기회나 협업 제안은 언제든 환영합니다.
       </p>

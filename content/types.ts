@@ -55,3 +55,8 @@ export type SkillGroup = {
   label: string;
   items: string[];
 };
+
+export type EducationItem = {
+  period: string;
+  title: string;
+};

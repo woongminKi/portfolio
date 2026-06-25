@@ -23,10 +23,4 @@ export const skills: SkillGroup[] = [
       "Supabase (Postgres)", "AWS (EC2/S3)", "CI/CD", "WebSocket", "RLS",
     ],
   },
-  {
-    label: "협업 / 기타",
-    items: [
-      "PM", "마케팅", "데이터 분석", "Git", "Figma",
-    ],
-  },
 ];
